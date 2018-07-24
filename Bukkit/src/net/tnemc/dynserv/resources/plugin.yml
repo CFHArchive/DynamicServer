@@ -1,0 +1,9 @@
+#General Data
+name: DynamicServer
+version: 1.0
+description: A plugin that works to dynamically add servers to your BungeeCord.
+author: creatorfromhell
+api-version: 1.13
+
+#Plugin Data
+main: net.tnemc.dynserv.core.DynamicServer
